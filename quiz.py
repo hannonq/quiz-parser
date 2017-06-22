@@ -41,8 +41,8 @@ def get_open_trivia_database(url):
     token = session_token.get('token')
 
     result = []
+    global LOOP_COUNT
     while True:
-        global LOOP_COUNT
         print(LOOP_COUNT)
         LOOP_COUNT+=1
         rr = requests.get(url+'&token='+token)
@@ -60,13 +60,13 @@ def get_open_trivia_database(url):
             question = OrderedDict({
                 'id': QUESTION_ID,
                 'lang': 'EN_US',
-                'category': r.get('category'),
+                'tags': [r.get('category').split(':')],
                 'type': 'MULTIPLE_CHOICE',
                 'question': OrderedDict({
                     'title': r.get('question'),
                     'choices': choices
                 }),
-                'answer': answer_id
+                'answers': [answer_id]
             })
 
             QUESTION_ID += 1
