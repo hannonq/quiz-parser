@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 0,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What engine did the original &quot;Half-Life&quot; run on?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "GoldSrc"
+                },
+                {
+                    "id": 1,
+                    "label": "Unreal"
+                },
+                {
+                    "id": 2,
+                    "label": "Source"
+                },
+                {
+                    "id": 3,
+                    "label": "Quake"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 1,
+        "lang": "EN_US",
+        "category": "Entertainment: Books",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Robert Bloch"
+                },
+                {
+                    "id": 1,
+                    "label": "Mary Shelley"
+                },
+                {
+                    "id": 2,
+                    "label": "Stephen King"
+                },
+                {
+                    "id": 3,
+                    "label": "Ira Levin"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "lang": "EN_US",
+        "category": "Geography",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the capital of Indonesia?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Palembang"
+                },
+                {
+                    "id": 1,
+                    "label": "Bandung"
+                },
+                {
+                    "id": 2,
+                    "label": "Medan"
+                },
+                {
+                    "id": 3,
+                    "label": "Jakarta"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Ringo Starr of The Beatles mainly played what instrument?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Piano"
+                },
+                {
+                    "id": 1,
+                    "label": "Guitar"
+                },
+                {
+                    "id": 2,
+                    "label": "Drums"
+                },
+                {
+                    "id": 3,
+                    "label": "Bass"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "lang": "EN_US",
+        "category": "History",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The two atomic bombs dropped on Japan by the United States in August 1945 were named &#039;Little Man&#039; and &#039;Fat Boy&#039;.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "True"
+                },
+                {
+                    "id": 1,
+                    "label": "False"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "lang": "EN_US",
+        "category": "General Knowledge",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "True"
+                },
+                {
+                    "id": 1,
+                    "label": "False"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "lang": "EN_US",
+        "category": "Geography",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which is the largest city in Morocco?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Fes"
+                },
+                {
+                    "id": 1,
+                    "label": "Sale"
+                },
+                {
+                    "id": 2,
+                    "label": "Casablanca"
+                },
+                {
+                    "id": 3,
+                    "label": "Rabat"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the name of the album released in 2014 by American band Maroon 5?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "X"
+                },
+                {
+                    "id": 1,
+                    "label": "III"
+                },
+                {
+                    "id": 2,
+                    "label": "IV"
+                },
+                {
+                    "id": 3,
+                    "label": "V"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "lang": "EN_US",
+        "category": "Science & Nature",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which element has the atomic number of 7?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Oxygen"
+                },
+                {
+                    "id": 1,
+                    "label": "Hydrogen"
+                },
+                {
+                    "id": 2,
+                    "label": "Neon"
+                },
+                {
+                    "id": 3,
+                    "label": "Nitrogen"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "lang": "EN_US",
+        "category": "Science & Nature",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Shrimp can swim backwards.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "lang": "EN_US",
+        "category": "General Knowledge",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Furby was released in 1998.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In &quot;Clash Royale&quot; what is Arena 4 called?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Barbarian Bowl"
+                },
+                {
+                    "id": 1,
+                    "label": "Royal Arena"
+                },
+                {
+                    "id": 2,
+                    "label": "Spell Valley"
+                },
+                {
+                    "id": 3,
+                    "label": "P.E.K.K.A&#039;s Playhouse"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which one of the following actors did not voice a character in &quot;Saints Row: The Third&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Sasha Grey"
+                },
+                {
+                    "id": 1,
+                    "label": "Hulk Hogan"
+                },
+                {
+                    "id": 2,
+                    "label": "Burt Reynolds"
+                },
+                {
+                    "id": 3,
+                    "label": "Ron Jeremy"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What was the name of the Secret Organization in the Hotline Miami series? ",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "USSR&#039;s Blessings"
+                },
+                {
+                    "id": 1,
+                    "label": "50 Blessings"
+                },
+                {
+                    "id": 2,
+                    "label": "American Blessings"
+                },
+                {
+                    "id": 3,
+                    "label": "50 Saints"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In Grand Theft Auto V, what was Michael De Santa&#039;s former surname?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Townley"
+                },
+                {
+                    "id": 1,
+                    "label": "Simpson"
+                },
+                {
+                    "id": 2,
+                    "label": "De Santos"
+                },
+                {
+                    "id": 3,
+                    "label": "Watson"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "lang": "EN_US",
+        "category": "Sports",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the highest belt you can get in Taekwondo?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Green"
+                },
+                {
+                    "id": 1,
+                    "label": "Black"
+                },
+                {
+                    "id": 2,
+                    "label": "Red"
+                },
+                {
+                    "id": 3,
+                    "label": "White"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Blue"
+                },
+                {
+                    "id": 1,
+                    "label": "Magenta"
+                },
+                {
+                    "id": 2,
+                    "label": "Orange"
+                },
+                {
+                    "id": 3,
+                    "label": "Green"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "lang": "EN_US",
+        "category": "Entertainment: Film",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "lang": "EN_US",
+        "category": "Entertainment: Books",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "How many Harry Potter books are there?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "5"
+                },
+                {
+                    "id": 1,
+                    "label": "7"
+                },
+                {
+                    "id": 2,
+                    "label": "6"
+                },
+                {
+                    "id": 3,
+                    "label": "8"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "lang": "EN_US",
+        "category": "Science & Nature",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What polymer is used to make CDs, safety goggles and riot shields?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Nylon"
+                },
+                {
+                    "id": 1,
+                    "label": "Bakelite"
+                },
+                {
+                    "id": 2,
+                    "label": "Polycarbonate"
+                },
+                {
+                    "id": 3,
+                    "label": "Rubber"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "lang": "EN_US",
+        "category": "Art",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Edgar Degas"
+                },
+                {
+                    "id": 1,
+                    "label": "Jackson Pollock"
+                },
+                {
+                    "id": 2,
+                    "label": "Vincent van Gogh"
+                },
+                {
+                    "id": 3,
+                    "label": "Salvador Dali"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "lang": "EN_US",
+        "category": "General Knowledge",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the French word for &quot;hat&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": " Casque"
+                },
+                {
+                    "id": 1,
+                    "label": "Chapeau"
+                },
+                {
+                    "id": 2,
+                    "label": "Bonnet"
+                },
+                {
+                    "id": 3,
+                    "label": " &Eacute;charpe"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "lang": "EN_US",
+        "category": "Entertainment: Film",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Shia LeBouf"
+                },
+                {
+                    "id": 1,
+                    "label": "Gene Wilder"
+                },
+                {
+                    "id": 2,
+                    "label": "Johnny Depp"
+                },
+                {
+                    "id": 3,
+                    "label": "Peter Ostrum"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Drill Containment Unit"
+                },
+                {
+                    "id": 1,
+                    "label": "Influx Waver"
+                },
+                {
+                    "id": 2,
+                    "label": "Anti-Gravity Hook"
+                },
+                {
+                    "id": 3,
+                    "label": "Cosmic Car Key"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which of these is the name of a cut enemy from &quot;Half-Life 2&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Tremor"
+                },
+                {
+                    "id": 1,
+                    "label": "Spike"
+                },
+                {
+                    "id": 2,
+                    "label": "Hydra"
+                },
+                {
+                    "id": 3,
+                    "label": "Cthulu"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "How many zombies need to be killed to get the &quot;Zombie Genocider&quot; achievement in Dead Rising (2006)?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "53,595"
+                },
+                {
+                    "id": 1,
+                    "label": "53,593"
+                },
+                {
+                    "id": 2,
+                    "label": "53,596"
+                },
+                {
+                    "id": 3,
+                    "label": "53,594"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "lang": "EN_US",
+        "category": "Vehicles",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which one is NOT the function of engine oil in car engines?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Lubrication"
+                },
+                {
+                    "id": 1,
+                    "label": "Cooling"
+                },
+                {
+                    "id": 2,
+                    "label": "Reduce corrosion"
+                },
+                {
+                    "id": 3,
+                    "label": "Combustion"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The Day of Defeat games take place during:",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Iraq War"
+                },
+                {
+                    "id": 1,
+                    "label": "Vietnam War"
+                },
+                {
+                    "id": 2,
+                    "label": "World War I"
+                },
+                {
+                    "id": 3,
+                    "label": "World War II"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Randy"
+                },
+                {
+                    "id": 1,
+                    "label": "Woman"
+                },
+                {
+                    "id": 2,
+                    "label": "Pleasure"
+                },
+                {
+                    "id": 3,
+                    "label": "Safe and Sound"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the real name of Canadian electronic music producer deadmau5?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Joel Zimmerman"
+                },
+                {
+                    "id": 1,
+                    "label": "Adam Richard Wiles"
+                },
+                {
+                    "id": 2,
+                    "label": "Sonny Moore"
+                },
+                {
+                    "id": 3,
+                    "label": "Thomas Wesley Pentz"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "lang": "EN_US",
+        "category": "History",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In which year did the Tokyo Subway Sarin Attack occur?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "2001"
+                },
+                {
+                    "id": 1,
+                    "label": "1991"
+                },
+                {
+                    "id": 2,
+                    "label": "2011"
+                },
+                {
+                    "id": 3,
+                    "label": "1995"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "lang": "EN_US",
+        "category": "Entertainment: Musicals & Theatres",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Himself"
+                },
+                {
+                    "id": 1,
+                    "label": "Stephen Sondheim"
+                },
+                {
+                    "id": 2,
+                    "label": "Richard Rodgers"
+                },
+                {
+                    "id": 3,
+                    "label": "Oscar Hammerstein"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "lang": "EN_US",
+        "category": "Mythology",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The greek god Poseidon was the god of what?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Sun"
+                },
+                {
+                    "id": 1,
+                    "label": "The Sea"
+                },
+                {
+                    "id": 2,
+                    "label": "War"
+                },
+                {
+                    "id": 3,
+                    "label": "Fire"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The key of G# contains how many sharps?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "0"
+                },
+                {
+                    "id": 1,
+                    "label": "3"
+                },
+                {
+                    "id": 2,
+                    "label": "7"
+                },
+                {
+                    "id": 3,
+                    "label": "5"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "lang": "EN_US",
+        "category": "General Knowledge",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The Lego Group was founded in 1932.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "True"
+                },
+                {
+                    "id": 1,
+                    "label": "False"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "lang": "EN_US",
+        "category": "History",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which Nation DID NOT have a Colony in Modern-day America?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Spain"
+                },
+                {
+                    "id": 1,
+                    "label": "Sweden"
+                },
+                {
+                    "id": 2,
+                    "label": "Portugal"
+                },
+                {
+                    "id": 3,
+                    "label": "Netherlands"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "lang": "EN_US",
+        "category": "Entertainment: Film",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Princess Lonestar"
+                },
+                {
+                    "id": 1,
+                    "label": "The Schwartz"
+                },
+                {
+                    "id": 2,
+                    "label": "Meatballs"
+                },
+                {
+                    "id": 3,
+                    "label": "Air"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Isaac Newton&#039;s Theory Disprover"
+                },
+                {
+                    "id": 1,
+                    "label": "Universal Gravity Manipulation Device"
+                },
+                {
+                    "id": 2,
+                    "label": "Quantum Energy Displacement Modifier"
+                },
+                {
+                    "id": 3,
+                    "label": "Zero-Point Energy Field Manipulator"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "lang": "EN_US",
+        "category": "Sports",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Roger Federer is a famous soccer player.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "lang": "EN_US",
+        "category": "Geography",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which country has three capital cities?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "United Kingdom"
+                },
+                {
+                    "id": 1,
+                    "label": "Somalia"
+                },
+                {
+                    "id": 2,
+                    "label": "China"
+                },
+                {
+                    "id": 3,
+                    "label": "South Africa"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 40,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which song in Drake&#039;s &quot;Views&quot; features Future?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Faithful"
+                },
+                {
+                    "id": 1,
+                    "label": "Too Good"
+                },
+                {
+                    "id": 2,
+                    "label": "Pop Style"
+                },
+                {
+                    "id": 3,
+                    "label": "Grammys"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 41,
+        "lang": "EN_US",
+        "category": "Science: Computers",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The first dual-core CPU was the Intel Pentium D.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 42,
+        "lang": "EN_US",
+        "category": "Entertainment: Comics",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Blonde"
+                },
+                {
+                    "id": 1,
+                    "label": "Auburn"
+                },
+                {
+                    "id": 2,
+                    "label": "Brown"
+                },
+                {
+                    "id": 3,
+                    "label": "Black"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 43,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Water Bubble"
+                },
+                {
+                    "id": 1,
+                    "label": "Pressure"
+                },
+                {
+                    "id": 2,
+                    "label": "Hydration"
+                },
+                {
+                    "id": 3,
+                    "label": "Telepathy"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 44,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Who is the lead singer of Green Day?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Mike Dirnt"
+                },
+                {
+                    "id": 1,
+                    "label": "Sean Hughes"
+                },
+                {
+                    "id": 2,
+                    "label": "Tr&eacute; Cool"
+                },
+                {
+                    "id": 3,
+                    "label": "Billie Joe Armstrong"
+                }
+            ]
+        },
+        "answer": 3
+    },
+    {
+        "id": 45,
+        "lang": "EN_US",
+        "category": "Entertainment: Board Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Add the Monsters&#039; Levels Together to Match the Xyz Monster"
+                },
+                {
+                    "id": 1,
+                    "label": "Banish A Number of Monsters From Your Hand And Deck"
+                },
+                {
+                    "id": 2,
+                    "label": "Overlay at least 2 Monsters of the Same Level"
+                },
+                {
+                    "id": 3,
+                    "label": "Activate a Spell and Send Monsters to the Graveyard"
+                }
+            ]
+        },
+        "answer": 2
+    },
+    {
+        "id": 46,
+        "lang": "EN_US",
+        "category": "Entertainment: Music",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Pink Guy&#039;s debut album was &quot;Pink Season&quot;.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "False"
+                },
+                {
+                    "id": 1,
+                    "label": "True"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 47,
+        "lang": "EN_US",
+        "category": "Science & Nature",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "The chemical element Lithium is named after the country of Lithuania.",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "True"
+                },
+                {
+                    "id": 1,
+                    "label": "False"
+                }
+            ]
+        },
+        "answer": 1
+    },
+    {
+        "id": 48,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "17"
+                },
+                {
+                    "id": 1,
+                    "label": "18"
+                },
+                {
+                    "id": 2,
+                    "label": "16"
+                },
+                {
+                    "id": 3,
+                    "label": "15"
+                }
+            ]
+        },
+        "answer": 0
+    },
+    {
+        "id": 49,
+        "lang": "EN_US",
+        "category": "Entertainment: Video Games",
+        "type": "MULTIPLE_CHOICE",
+        "question": {
+            "title": "Which of the following is not a character in the Street Fighter series?",
+            "choices": [
+                {
+                    "id": 0,
+                    "label": "Sakura Kasugano"
+                },
+                {
+                    "id": 1,
+                    "label": "Mai Shiranui"
+                },
+                {
+                    "id": 2,
+                    "label": "Laura Matsuda"
+                },
+                {
+                    "id": 3,
+                    "label": "Ibuki"
+                }
+            ]
+        },
+        "answer": 1
+    }
+]
