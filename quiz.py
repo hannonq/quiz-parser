@@ -4,13 +4,12 @@ import pprint
 from collections import OrderedDict
 import json
 
-
-
 pp = pprint.PrettyPrinter(indent=4)
 url = 'https://opentdb.com/api.php?amount=50'
 
 QUESTION_ID = 0
-
+REQUEST_AMOUNT = 5
+LOOP_COUNT = 0
 
 #  starting with the easiest
 #  https://opentdb.com/api_config.php
@@ -35,31 +34,43 @@ def get_open_trivia_database(url):
 
         return choices, right_id
 
-    rr = requests.get(url)
-    print(rr)
-    response = rr.json()
-    if not response.get('response_code') == 0:
-        print('Error. Check URL')
-        return 1
+    session_token = requests.get('https://opentdb.com/api_token.php?command=request').json()
+    if not session_token.get('response_code') == 0:
+        print("Couldn't get token")
+        exit()
+    token = session_token.get('token')
 
     result = []
-    global QUESTION_ID
-    for r in response.get('results'):
-        choices, answer_id = get_choices(r)
-        question = OrderedDict({
-            'id': QUESTION_ID,
-            'lang': 'EN_US',
-            'category': r.get('category'),
-            'type': 'MULTIPLE_CHOICE',
-            'question': OrderedDict({
-                'title': r.get('question'),
-                'choices': choices
-            }),
-            'answer': answer_id
-        })
+    while True:
+        global LOOP_COUNT
+        print(LOOP_COUNT)
+        LOOP_COUNT+=1
+        rr = requests.get(url+'&token='+token)
+        response = rr.json()
+        if response.get('response_code') == 4:
+            print('Session Token has returned all possible questions for the '
+                  'specified query. Resetting the Token is necessary.')
+            requests.get('https://opentdb.com/api_token.php?'
+                         'command=reset&token='+token)
+            return result
 
-        QUESTION_ID += 1
-        result.append(question)
+        global QUESTION_ID
+        for r in response.get('results'):
+            choices, answer_id = get_choices(r)
+            question = OrderedDict({
+                'id': QUESTION_ID,
+                'lang': 'EN_US',
+                'category': r.get('category'),
+                'type': 'MULTIPLE_CHOICE',
+                'question': OrderedDict({
+                    'title': r.get('question'),
+                    'choices': choices
+                }),
+                'answer': answer_id
+            })
+
+            QUESTION_ID += 1
+            result.append(question)
 
     return result
 
@@ -67,4 +78,3 @@ def get_open_trivia_database(url):
 r = get_open_trivia_database(url)
 with open('quiz1.json', 'w') as file:
     json.dump(r, file, indent=4)
-pp.pprint(r)
